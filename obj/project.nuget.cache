@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MZjVJgPK/k7LIPKAwe4x33w3quQSG5n92xOkWxbPEgTyyd3QzZEfe78tqE8JuNQOZOvTA9GWJ6zGm5oC00v7Uw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Máy tính\\BitcoinRichList\\BitcoinRichList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\htmlagilitypack\\1.11.43\\htmlagilitypack.1.11.43.nupkg.sha512"
+  ],
+  "logs": []
+}
